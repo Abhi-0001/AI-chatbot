@@ -3,7 +3,7 @@
 ## start the Backend Server :
   1. move into backend folder
   2. Install all required packages using command:
-     <code>pip install -r requirements.txt</code>
+     <code>pip install -r requirement.txt</code>
   3. start the server using: 
   <code>python app.py</code>
 ## start the frontend : 
